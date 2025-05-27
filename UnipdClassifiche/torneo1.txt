@@ -1,0 +1,40 @@
+ Torneo blitz Specola - Unipd Chess Club
+13/03/2025, 13/03/2025
+
+
+Classifica al turno 7
+
+Pos. Num.    Nome                   Gen. Fed | Elo  Perf. | Pnt. BH   BH/C1 SB    
+----------------------------------------------------------------------------------
+1    1    FM Simonetto, Andrea      m    ITA | 2330 2395  | 6.5  32   29    29    
+2    3    CN Gennari, Jacopo        m    ITA | 2158 2198  | 6.0  30   27    24    
+3    4    CN Zenari, Marco          m    ITA | 2139 1982  | 5.5  28.5 26    19    
+4    30    Ghasemi, Mohammadhossein m    Isl | 1823 1875  | 5.0  25.5 23.5  17    
+5    2    FM Cappelletto, Joshuaede m    ITA | 2276 1805  | 4.5  29.5 27    16.75 
+6    8    1N Binci, Filippo         m    ITA | 1882 1695  | 4.5  28.5 26    16.75 
+7    9    1N Fanchin, Matteo        m    ITA | 1855 1864  | 4.5  27   26    13.25 
+8    7    1N De Bona, Filippo       m    ITA | 1896 1808  | 4.0  29   26    15    
+9    12      Baymani, Soroush       m    IRI | 1709 1771  | 4.0  28   25.5  13.5  
+10   6    1N Paoli, Thomas          m    ITA | 1936 1726  | 4.0  27.5 27    11    
+11   24      Miolato Andrea         m    ITA | 1399 1847  | 4.0  27.5 24.5  14.5  
+12   16      Boldrin Giuseppe       m    ITA | 1399 1950  | 4.0  27   25.5  13    
+13   5    1N Boraso, Francesco      m    ITA | 1942 1780  | 4.0  27   25    12    
+14   14   2N Strenghetto, Paolo     m    ITA | 1645 1765  | 4.0  26   23.5  14    
+15   10   2N Cescatti, Riccardo     m    ITA | 1771 1615  | 4.0  23   21    11    
+16   25      Navone Niccolò         m    ITA | 1399 1598  | 3.5  19   18.5  6.25  
+17   15   3N SCARPA LUCA            m    ITA | 1563 1671  | 3.0  24.5 23.5  7     
+18   11   2N Vignato, Nicolo`       m    ITA | 1769 1511  | 3.0  24   23    7.5   
+19   13   2N Stanila, Serban        m    ITA | 1684 1556  | 3.0  23   21.5  7.5   
+20   17      Chirilov Marius        m    ROU | 1399 1498  | 3.0  22   21    6     
+21   21      Luttrell, Bryce Davis  m    USA | 1399 1561  | 3.0  21   19.5  6     
+22   26      Pascu Nelu             m    ROU | 1399 1547  | 3.0  20   19.5  5     
+23   22      Manojlovic Anastasija  f    IRL | 1399 1477  | 3.0  18   17.5  3.5   
+24   28      Poggi Giovanni         m    ITA | 1399 1729  | 2.5  29   26    9.25  
+25   18      Gentili Claudio        m    ITA | 1399 1463  | 2.5  20   19.5  3.25  
+26   19      Guerra gregory         m    ITA | 1399 1478  | 2.0  24   22    5     
+27   29      Trolese Emma           f    ITA | 1399 1302  | 2.0  16   15.5  2     
+28   27      Pase Emanuele          m    ITA | 1399 1210  | 1.5  18   17.5  2.75  
+29   23      Milito Ettore          m    ITA | 1399 1231  | 1.0  21   19    2     
+30   20      Lerry                  m    BUR | 1399 1054  | 0.5  19.5 18    0.75  
+
+Generato da Vesus - https://vesus.org

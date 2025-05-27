@@ -1,0 +1,42 @@
+ Circuito lampo la specola - quarto torneo
+29/04/2025, 29/04/2025
+
+
+Classifica al turno 7
+
+Pos. Num.    Nome                     Gen. Fed | Elo  Perf. | Pnt. BH   BH/C1 SB    
+------------------------------------------------------------------------------------
+1    2    CN Guidobene, Davide        m    ITA | 2045 2343  | 6.5  31.5 28.5  29    
+2    3    CN Brunelli, Giovanni       m    ITA | 2015 2011  | 5.0  33.5 30    22    
+3    6    1N Zanotto, Enrico          m    ITA | 1931 1975  | 5.0  30.5 28    19    
+4    1    CN Gennari, Jacopo          m    ITA | 2155 2034  | 5.0  30   27    20    
+5    9    1N Scagliarini, Tomas       m    ITA | 1854 1954  | 5.0  30   26.5  18.5  
+6    5    1N Boraso, Francesco        m    ITA | 1937 1976  | 5.0  28   27    17    
+7    7    1N De Bona, Filippo         m    ITA | 1926 1789  | 5.0  24   23    15.5  
+8    14   1N Celadin, Fabio           m    ITA | 1806 1864  | 4.5  30   28    17.75 
+9    15   2N Ferlan, Riccardo         m    ITA | 1788 1727  | 4.5  27   24    14.75 
+10   16      Ghasemi, Mohammadhossein m    ISL | 1782 1602  | 4.0  27.5 25.5  14    
+11   13   1N Antoniassi, Giuseppe     m    ITA | 1816 1611  | 4.0  26   24    12.5  
+12   11   1N Vignato, Nicolo`         m    ITA | 1835 1699  | 4.0  26   23    12    
+13   8    1N Fanchin, Matteo          m    ITA | 1877 1678  | 4.0  23   21    10.5  
+14   4    1N Paoli, Thomas            m    ITA | 1938 1843  | 3.5  30.5 28.5  12    
+15   12   1N Boerci, Leonardo         m    ITA | 1828 1783  | 3.5  28   25    12.75 
+16   19   2N Cisco, Alberto           m    ITA | 1575 1466  | 3.5  24   22    9.25  
+17   25      Miolato Andrea           m    ITA | 1399 1323  | 3.5  22.5 20.5  7.75  
+18   10   1N Domenichelli, Giacomo    m    ITA | 1836 1429  | 3.5  21.5 19.5  8.75  
+19   28      Rocco Diego              m    ITA | 1399 1600  | 3.5  18.5 17.5  7.25  
+20   18   2N Gianolla, Matteo         m    ITA | 1619 1454  | 3.0  28.5 25.5  10    
+21   17   2N Pintonello, Francesco    m    ITA | 1721 1589  | 3.0  26   24    8.5   
+22   26      Popa mitica liviu        m    ROU | 1399 1346  | 3.0  24   22    8.5   
+23   27      QUISTELLI FEDERICO       m    ITA | 1399 1657  | 3.0  23.5 22.5  7     
+24   29      Ruggeri Pietro           m    ITA | 1399 1598  | 3.0  22   21    6.5   
+25   31      Penazzato Samuel         m    COL | 527  1436  | 3.0  18   17    5     
+26   22      Claudio Gentili          m    ITA | 1399 1217  | 2.5  24.5 22.5  6.75  
+27   32      Prismaa                  m    MYA | 86   1355  | 2.0  20   19    3     
+28   24      LUPO MATTEO              m    ITA | 1399 895   | 2.0  18.5 17.5  3     
+29   20      Beggiato Enrico          m    ITA | 1399 1256  | 2.0  18.5 17.5  2     
+30   21      Canzoneri Marilena       f    ITA | 1399 1081  | 1.0  18.5 17.5  1     
+31   30      Kokic Stojan             m    CRO | 800  1363  | 1.0  18   17    1     
+32   23      Esmaeil Karimi Dardashti m    IRI | 1399 323   | 1.0  17   16    1     
+
+Generato da Vesus - https://vesus.org

@@ -1,0 +1,42 @@
+ Circuito lampo della Specola Torneo 5 di 6
+15/05/2025, 15/05/2025
+
+
+Classifica al turno 7
+
+Pos. Num.    Nome                     Gen. Fed | Elo  Perf. | Pnt. BH   BH/C1 SB    
+------------------------------------------------------------------------------------
+1    2    CN Buchicchio, Giancarlo    m    ITA | 2002 1939  | 6.0  29   27    23    
+2    1    CN Brunelli, Giovanni       m    ITA | 2015 1948  | 6.0  28.5 26.5  24.5  
+3    7    1N Celadin, Fabio           m    ITA | 1806 1845  | 5.5  26.5 24.5  19    
+4    22      Miolato Andrea           m    ITA | 1399 1926  | 5.0  32.5 29.5  21    
+5    6       Ghasemi, Mohammadhossein m    ISL | 1826 1709  | 5.0  29   26    18    
+6    4    1N Binci, Filippo           m    ITA | 1882 1586  | 5.0  26   23    17    
+7    12   2N Brunazzetto, Luca        m    ITA | 1618 1506  | 4.5  22   20    14.25 
+8    11   2N Strenghetto, Paolo       m    ITA | 1645 1703  | 4.0  30.5 27.5  15    
+9    29      Verdelli Francesco       m    ITA | 1399 1784  | 4.0  30   26    16    
+10   26      Stafa Diego              m    ITA | 1399 1756  | 4.0  28.5 26.5  14    
+11   9    2N Pintonello, Francesco    m    ITA | 1711 1574  | 4.0  28.5 25.5  13.5  
+12   15   2N Gianolla, Matteo         m    ITA | 1538 1292  | 4.0  28   26    12    
+13   10   2N Donati, Laura Barbara    f    ITA | 1701 1337  | 4.0  28   25    14    
+14   8    2N Cescatti, Riccardo       m    ITA | 1771 1449  | 4.0  25   22    12    
+15   13   2N Piovesan, Sara           f    ITA | 1601 1525  | 4.0  24   22    11.75 
+16   3    1N De Bona, Filippo         m    ITA | 1891 1539  | 3.5  26.5 23.5  11.5  
+17   25      Sina manouchehri         m    IRI | 1399 1317  | 3.5  25.5 22.5  11.75 
+18   14      Quistelli, Federico      m    ITA | 1554 1476  | 3.0  29   26    11.25 
+19   23      Navone Niccolò           m    ITA | 1399 1278  | 3.0  26   24    7     
+20   30      Penazzato Samuel         m    ESA | 941  1510  | 3.0  24.5 22.5  9.5   
+21   28      Trolese Emma             f    ITA | 1399 1530  | 3.0  24.5 22.5  8.5   
+22   27      Stefan Kokic             m    CRO | 1399 1511  | 3.0  24   22    8     
+23   20      Gentili Claudio          m    ITA | 1399 1197  | 3.0  22   21    6     
+24   24      Pase Emanuele            m    ITA | 1399 1499  | 3.0  21.5 20.5  6     
+25   32      Prisma                   m    TTO | 22   1412  | 3.0  20.5 19.5  6     
+26   19      Francesco Malatesta      m    ITA | 1399 1268  | 3.0  20   18    7     
+27   21      Marilena Canzoneri       f    ITA | 1399 1186  | 2.0  25.5 23.5  5     
+28   17      FarhadKD                 m    ITA | 1399 1265  | 2.0  23.5 22.5  3     
+29   18      Francesca Ciocchi        f    ITA | 1399 1227  | 2.0  20   19    3     
+29   31      Lerry                    m    ITA | 800  1183  | 2.0  20   19    3     
+31   16      Baldassarri, Matteo      m    ITA | 1399 270   | 1.0  16   15    1     
+32   5    1N Scagliarini, Tomas       m    ITA | 1828 599   | 0.0  2    2     0     
+
+Generato da Vesus - https://vesus.org

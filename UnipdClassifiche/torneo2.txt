@@ -1,0 +1,45 @@
+ Circuito lampo della Specola Torneo 2 di 6
+25/03/2025, 25/03/2025
+
+
+Classifica al turno 7
+
+Pos. Num.    Nome                      Gen. Fed Elo  | Pnt.   
+--------------------------------------------------------------
+1    1    CN Gennari, Jacopo           m    ITA 2090 | 6.5  
+2    2    CN Brunelli, Giovanni        m    ITA 1991 | 6.0  
+3    4    1N Paoli, Thomas             m    ITA 1936 | 5.5  
+4    10      Ghasemi, Mohammadhossein  m    ISL 1826 | 5.0  
+5    5    1N De Bona, Filippo          m    ITA 1896 | 4.5  
+5    6    1N Chirilov, Marius Giorgian m    ITA 1867 | 4.5  
+5    8    1N Rampin, Tommaso           m    ITA 1840 | 4.5  
+5    9    1N Boerci, Leonardo          m    ITA 1828 | 4.5  
+5    12   2N Caruso, Giovanni          m    ITA 1757 | 4.5  
+5    31      Miolato Andrea            m    ITA 1399 | 4.5  
+11   7    1N Scagliarini, Tomas        m    ITA 1862 | 4.0  
+11   11   2N Cescatti, Riccardo        m    ITA 1771 | 4.0  
+11   13   2N Pintonello, Francesco     m    ITA 1711 | 4.0  
+11   16   2N Strenghetto, Paolo        m    ITA 1645 | 4.0  
+11   19   3N Brunazzetto, Luca         m    ITA 1542 | 4.0  
+11   20   2N Gianolla, Matteo          m    ITA 1538 | 4.0  
+11   33      Ruggeri Pietro            m    ITA 1399 | 4.0  
+18   3    2N Boldrin, Giuseppe         m    ITA 1941 | 3.5  
+18   17   3N Piovesan, Sara            f    ITA 1582 | 3.5  
+18   34      Silei Giona               m    ITA 1399 | 3.5  
+21   14      Baymani, Soroush          m    IRI 1709 | 3.0  
+21   15   2N Stanila, Serban           m    ITA 1684 | 3.0  
+21   21      Tancredi, Riccardo        m    ITA 1434 | 3.0  
+21   26      Corradi Stefano           m    ITA 1399 | 3.0  
+21   30      Luttrell, Bryce Davis     m    USA 1399 | 3.0  
+21   35      Trolese Emma              f    ITA 1399 | 3.0  
+27   18   3N SCARPA LUCA               m    ITA 1563 | 2.5  
+27   27      Fetz Daniel               m    ITA 1399 | 2.5  
+27   32      Pase Emanuele             m    ITA 1399 | 2.5  
+30   24      Canzoneri Marilena        f    ITA 1399 | 2.0  
+30   25      Colla Tommaso             m    ITA 1399 | 2.0  
+30   29      Lupo, Matteo              m    ITA 1399 | 2.0  
+33   22      Baldan massimo            m    ITA 1399 | 1.5  
+33   28      Gentili Claudio           m    ITA 1399 | 1.5  
+35   23      Baldan Silvia             f    ITA 1399 | 0.0  
+
+Generato da Vesus - https://vesus.org
